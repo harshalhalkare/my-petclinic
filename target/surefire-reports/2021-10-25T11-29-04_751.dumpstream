@@ -1,0 +1,93 @@
+# Created at 2021-10-25T11:29:36.820
+APR Statistical data ....
+
+# Created at 2021-10-25T11:29:36.820
+Poll Statistics .........
+
+# Created at 2021-10-25T11:29:36.821
+Polls created           : 0
+
+# Created at 2021-10-25T11:29:36.821
+Polls destroyed         : 0
+
+# Created at 2021-10-25T11:29:36.821
+Polls cleared           : 0
+
+# Created at 2021-10-25T11:29:36.821
+Network Statistics ......
+
+# Created at 2021-10-25T11:29:36.821
+Sockets created         : 0
+
+# Created at 2021-10-25T11:29:36.821
+Sockets accepted        : 0
+
+# Created at 2021-10-25T11:29:36.822
+Sockets closed          : 0
+
+# Created at 2021-10-25T11:29:36.822
+Sockets cleared         : 0
+
+# Created at 2021-10-25T11:29:36.823
+Total send calls        : 0
+
+# Created at 2021-10-25T11:29:36.827
+Minimum send length     : 10000000
+
+# Created at 2021-10-25T11:29:36.827
+Maximum send length     : 0
+
+# Created at 2021-10-25T11:29:36.827
+Average send length     : -nan
+
+# Created at 2021-10-25T11:29:36.827
+Total recv calls        : 0
+
+# Created at 2021-10-25T11:29:36.827
+Minimum recv length     : 10000000
+
+# Created at 2021-10-25T11:29:36.828
+Maximum recv length     : 0
+
+# Created at 2021-10-25T11:29:36.828
+Average recv length     : -nan
+
+# Created at 2021-10-25T11:29:36.828
+Receive timeouts        : 0
+
+# Created at 2021-10-25T11:29:36.828
+Receive errors          : 0
+
+# Created at 2021-10-25T11:29:36.828
+Receive resets          : 0
+
+# Created at 2021-10-25T11:29:36.828
+Last receive error      : 0
+
+# Created at 2021-10-25T11:29:36.828
+Total sendfile calls    : 0
+
+# Created at 2021-10-25T11:29:36.828
+Minimum sendfile length : 10000000
+
+# Created at 2021-10-25T11:29:36.828
+Maximum sendfile length : 0
+
+# Created at 2021-10-25T11:29:36.828
+SSL Network Statistics ..
+
+# Created at 2021-10-25T11:29:36.828
+Sockets created         : 0
+
+# Created at 2021-10-25T11:29:36.828
+Sockets accepted        : 0
+
+# Created at 2021-10-25T11:29:36.828
+Sockets closed          : 0
+
+# Created at 2021-10-25T11:29:36.828
+Sockets cleared         : 0
+
+# Created at 2021-10-25T11:29:36.828
+APR Terminated
+
