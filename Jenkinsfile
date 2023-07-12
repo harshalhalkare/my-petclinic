@@ -78,10 +78,11 @@ pipeline {
                      //   sh 'aws eks update-kubeconfig --name $CLUSTER_NAME --region $AWS_REGION'
                         // sh 'sed -i "s|your-image-from-docker-hub|${DOCKERHUB_CREDENTIALS_USR}/petclinic-app:${BUILD_NUMBER}|g" deployment.yaml'
                        // sh 'kubectl apply -f deployment.yaml' // Apply the Kubernetes deployment
-                          sh 'echo test'
+                      //    sh 'echo test'
                     //}
                     // slackNotify("Deploy to AWS Kubernetes stage completed", 'good') // Success notification with green color
-                }
+//                }
+                         sh 'echo test'
             }
         }
         
